@@ -1,10 +1,9 @@
 # Plant-Pulse
 
 #Project Details:
-
-Objective: systemize the plantation industry and aim to make each plant in the farm have similar healthy conditions in order to have stable revenue.
-Project type: Physical Computing
-Equipment needed: two microbit, three jumper wires, soil moisture sensor, battery pack, plant
+1. Objective: systemize the plantation industry and aim to make each plant in the farm have similar healthy conditions in order to have stable revenue.
+2. Project type: Physical Computing
+3. Equipment needed: two microbit, three jumper wires, soil moisture sensor, battery pack, plant
 
 #Steps to run the prototype:
 1. open tinkercad
